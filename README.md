@@ -8,7 +8,7 @@ Meu primeiro game de lógica. Clique no link abaixo e veja como ficou.
 
 O curso abordará conceitos comuns a várias linguagens de programação e terá como projeto principal o desenvolvimento de um jogo chamado "Número Secreto". Serão utilizados conceitos como variáveis, loops, condicionais (if e else) e boas práticas de programação.
 
-<img src="https://raw.githubusercontent.com/Rox351/Portfolio/main/SobreMim.png" alt="Imagem do Alura MIDI" width="50%">
+<img src="https://raw.githubusercontent.com/Rox351/LOGICA-DE-PROGRAMACAO-COM-JAVASCRIPT/blob/main/img/Gif.gif" alt="Imagem do Alura MIDI" width="50%">
 
 
 ## 🔨 Funcionalidades do projeto
