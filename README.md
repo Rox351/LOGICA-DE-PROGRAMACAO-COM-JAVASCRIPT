@@ -1,8 +1,8 @@
 # LOGICA-DE-PROGRAMACAO-COM-JAVASCRIPT
 
-# Portfolio
-Meu Portfolio, Responsivo. Clique no link abaixo e veja como ficou.
-![](https://raw.githubusercontent.com/Rox351/Portifolio/main/Portfolio.png)
+# Adivinhe o Número.
+Meu primeiro game de lógica. Clique no link abaixo e veja como ficou.
+![]([https://raw.githubusercontent.com/Rox351/Portifolio/main/Portfolio.png](https://raw.githubusercontent.com/Rox351/LOGICA-DE-PROGRAMACAO-COM-JAVASCRIPT/main/img/Gif.gif))
 
 # Curso Alura de LOGICA DE PROGRAMACAO COM JAVASCRIPT
 
